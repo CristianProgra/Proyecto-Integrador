@@ -1,0 +1,41 @@
+/* AZUL: #00B0CA
+* VERDE: #BED600
+*/
+
+h1{
+    background-color: rgb(124, 222, 252);
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+h2{
+    
+    margin-top: 50px;
+    font-size: 2rem;
+}
+
+body{
+    background-color: rgb(255, 251, 251);
+    margin: 30px;
+}
+
+.contenedor {
+    margin: 20px;
+    padding: 10px;
+}
+
+.mi-imagen {
+    width: 80%; 
+    margin: 20px auto;
+}
+
+#carousel img{
+    object-fit: cover;
+    object-position: center;
+    height: 400px;
+}
+
+
+
+
